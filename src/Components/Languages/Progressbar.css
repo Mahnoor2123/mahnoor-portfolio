@@ -1,0 +1,29 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+
+  
+  .progress-bar {
+    width:90%;
+    background-color: #e0e0e0;
+    border-radius: 5px;
+    overflow: hidden;
+    margin: 20px 10px;
+  }
+  
+   button {
+  background-color: lightblue;
+  color: gray;
+  }
+  .progress-bar-fill {
+    height: 20px;
+    background-color: lightblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: bold;
+    transition: width 0.5s ease-in-out;
+  }
+  

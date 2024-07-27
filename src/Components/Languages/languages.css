@@ -1,0 +1,43 @@
+
+.lang {
+    padding: 10px 10px;
+
+}
+.lang h3{
+    color: var(--main-color);
+    text-align: left;
+    
+}
+.lang .lang-no{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.lang h5{
+    color: white;
+  font-size: 16px;
+    
+}
+.card{
+    width: 240px;
+
+   margin: 8px;
+  
+  
+}
+.card:hover{
+    cursor: pointer;
+    border: none;
+   box-shadow: 3px 3px 15px var(--main-color);
+   width: 280px;
+ height: 350px;
+  
+}
+
+.card img{
+    margin-top: 30px;
+    border-radius: 200px;
+    height: 100px;
+    width: 100px;
+}

@@ -1,0 +1,35 @@
+form {
+    text-align: left;
+    color: white;
+    padding: 20px;
+    border-radius: 15px;
+    width: 330px;
+    margin: 20px;
+    background-color: rgba(161, 160, 160, 0.574);
+
+}
+form h1{
+    color: var(--main-color);
+}
+form label input{
+   background-color: var(--main-color);
+   border-radius: 15px;
+   padding: 10px;
+   width: 300px;
+   border: none;
+
+
+}
+form label h5{
+   font-size: 19px;
+   text-transform: capitalize;
+ }
+form button{
+  margin-top: 20px;
+  color: white;
+  background-color: var(--main-color);
+  border-radius: 15px;
+  border: none;
+  padding: 10px;
+  font-weight: 600;
+ }

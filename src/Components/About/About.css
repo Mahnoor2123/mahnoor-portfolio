@@ -1,0 +1,28 @@
+.Navbar{
+    margin: 10px;
+}
+ .Me{
+    background-image: url(/public/Images/AboutME.png);
+    height: 100vh;
+    background-position: center;
+    padding: 10px;
+  }
+  .Me h5{
+    color: white;
+    text-align: left;
+    font-size: 40px;
+  }
+  .Me h1{
+    color: white;
+    text-align: left;
+    font-weight: 500;
+    font-size: 30px;
+  
+  }
+  .Me p{
+    color: white;
+    text-align: left;
+    font-size: 17px;
+    width: 600px;
+    
+  }

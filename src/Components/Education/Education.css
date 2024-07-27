@@ -1,0 +1,39 @@
+.Educationme{
+    color: white;
+    text-align: left;
+    padding: 10px;
+    display: flex;
+    font-size: 15px;
+    justify-content: space-between;
+  
+}
+.Educationme img{
+   width: 640px;
+  }
+  .Educationme .MyEducation h3 {
+   
+    z-index: 3;
+  }
+  /* .Educationme .MyEducation h5 {
+   color: grey;
+   font-size: 20px;
+   transform: translate(30px, -50px);
+   
+ 
+  } */
+.Educationme h1{
+    color: var(--main-color);
+    text-align: left;
+    text-transform: uppercase;
+    /* transform: translateY(-15px); */
+}
+.Educationme p{
+   font-size: 17px;
+   /* transform: translateY(-15px); */
+}
+.Educationme p span{
+    font-size: 17px;
+    color: var(--main-color);
+    font-weight: 600;
+ }
+ 
